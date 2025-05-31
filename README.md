@@ -23,5 +23,6 @@ To create dynamic subscription services that incentivize consistent user interac
 - DAO-governed fee and period adjustments
 
 ## Contract Details
+project done by laksh sankhla 
 0x651a72F5b82af210bbC627590862CC4ca9b463CE
 ![alt text](image.png)
