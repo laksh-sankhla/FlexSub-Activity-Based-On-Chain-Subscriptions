@@ -1,4 +1,4 @@
-# Project Title: FlexSub: Activity-Based On-Chain Subscriptions
+# Project  Title: FlexSub: Activity-Based On-Chain Subscriptions
 
 ## Project Description
 
