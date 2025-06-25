@@ -1,6 +1,6 @@
 # Project  Title: FlexSub: Activity-Based On-Chain Subscriptions
 
-## Project Description
+## Project Description 
 
 FlexSub is an on-chain subscription protocol where users must maintain activity within their subscription period to keep their subscription active. This model rewards engagement and ensures active users retain access.
 
